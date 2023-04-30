@@ -39,6 +39,7 @@ class SkillSet:
 
     magic_type = [
         'mage',
+        'programmer',
         'wizard',
         'witch',
         'magician',
