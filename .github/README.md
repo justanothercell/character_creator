@@ -4,14 +4,14 @@ Traits are loosely weighted based on age and some hidden skill factors.
 
 Citizen-Id functions as seed.
 
+Warning: Sometimes you might get a child prodigy who is a threat to humanity
+
 ![](neville.png)
 
-Warning: Sometimes you might get a child prodigy who is a threat to humanity.
+other people are normally skilled
 
 ![](marcell.png)
 
-Some people are normally skilled
+and some failed at life.
 
 ![](miesha.png)
-
-and some fauled at life.
