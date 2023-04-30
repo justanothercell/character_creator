@@ -4,7 +4,9 @@ Traits are loosely weighted based on age and some hidden skill factors.
 
 Citizen-Id functions as seed.
 
-Warning: Sometimes you might get a child who is a threat to humanity
+run `main.py` to launch cli
+
+Warning: Sometimes you might get a child who might turn you into a flower pot
 
 ![](neville.png)
 
